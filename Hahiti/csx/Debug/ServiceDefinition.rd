@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Hahiti" generation="1" functional="0" release="0" Id="4d5f13a5-a0b2-4ec9-b311-28381f9515e4" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
+<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Hahiti" generation="1" functional="0" release="0" Id="c52163e0-0730-4d6d-b164-9f2eb135c5d4" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
   <groups>
     <group name="HahitiGroup" generation="1" functional="0" release="0">
       <componentports>
@@ -102,7 +102,7 @@
       </maps>
       <components>
         <groupHascomponents>
-          <role name="Notifications Manager" generation="1" functional="0" release="0" software="C:\Users\victor\SkyDrive\Assignments\Workspace\Hahiti\Hahiti\csx\Debug\roles\Notifications Manager" entryPoint="base\x64\WaHostBootstrapper.exe" parameters="base\x64\WaWorkerHost.exe " memIndex="-1" hostingEnvironment="consoleroleadmin" hostingEnvironmentVersion="2">
+          <role name="Notifications Manager" generation="1" functional="0" release="0" software="C:\Users\victor\Source\Repos\Hahiti\Hahiti\csx\Debug\roles\Notifications Manager" entryPoint="base\x64\WaHostBootstrapper.exe" parameters="base\x64\WaWorkerHost.exe " memIndex="-1" hostingEnvironment="consoleroleadmin" hostingEnvironmentVersion="2">
             <settings>
               <aCS name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" defaultValue="" />
               <aCS name="__ModelData" defaultValue="&lt;m role=&quot;Notifications Manager&quot; xmlns=&quot;urn:azure:m:v1&quot;&gt;&lt;r name=&quot;Notifications Manager&quot; /&gt;&lt;r name=&quot;Report Analyzer&quot; /&gt;&lt;r name=&quot;REST API&quot;&gt;&lt;e name=&quot;Endpoint1&quot; /&gt;&lt;/r&gt;&lt;r name=&quot;Statistics Collector&quot; /&gt;&lt;/m&gt;" />
@@ -119,7 +119,7 @@
           </sCSPolicy>
         </groupHascomponents>
         <groupHascomponents>
-          <role name="Report Analyzer" generation="1" functional="0" release="0" software="C:\Users\victor\SkyDrive\Assignments\Workspace\Hahiti\Hahiti\csx\Debug\roles\Report Analyzer" entryPoint="base\x64\WaHostBootstrapper.exe" parameters="base\x64\WaWorkerHost.exe " memIndex="-1" hostingEnvironment="consoleroleadmin" hostingEnvironmentVersion="2">
+          <role name="Report Analyzer" generation="1" functional="0" release="0" software="C:\Users\victor\Source\Repos\Hahiti\Hahiti\csx\Debug\roles\Report Analyzer" entryPoint="base\x64\WaHostBootstrapper.exe" parameters="base\x64\WaWorkerHost.exe " memIndex="-1" hostingEnvironment="consoleroleadmin" hostingEnvironmentVersion="2">
             <settings>
               <aCS name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" defaultValue="" />
               <aCS name="__ModelData" defaultValue="&lt;m role=&quot;Report Analyzer&quot; xmlns=&quot;urn:azure:m:v1&quot;&gt;&lt;r name=&quot;Notifications Manager&quot; /&gt;&lt;r name=&quot;Report Analyzer&quot; /&gt;&lt;r name=&quot;REST API&quot;&gt;&lt;e name=&quot;Endpoint1&quot; /&gt;&lt;/r&gt;&lt;r name=&quot;Statistics Collector&quot; /&gt;&lt;/m&gt;" />
@@ -136,7 +136,7 @@
           </sCSPolicy>
         </groupHascomponents>
         <groupHascomponents>
-          <role name="REST API" generation="1" functional="0" release="0" software="C:\Users\victor\SkyDrive\Assignments\Workspace\Hahiti\Hahiti\csx\Debug\roles\REST API" entryPoint="base\x64\WaHostBootstrapper.exe" parameters="base\x64\WaIISHost.exe " memIndex="-1" hostingEnvironment="frontendadmin" hostingEnvironmentVersion="2">
+          <role name="REST API" generation="1" functional="0" release="0" software="C:\Users\victor\Source\Repos\Hahiti\Hahiti\csx\Debug\roles\REST API" entryPoint="base\x64\WaHostBootstrapper.exe" parameters="base\x64\WaIISHost.exe " memIndex="-1" hostingEnvironment="frontendadmin" hostingEnvironmentVersion="2">
             <componentports>
               <inPort name="Endpoint1" protocol="http" portRanges="80" />
             </componentports>
@@ -156,7 +156,7 @@
           </sCSPolicy>
         </groupHascomponents>
         <groupHascomponents>
-          <role name="Statistics Collector" generation="1" functional="0" release="0" software="C:\Users\victor\SkyDrive\Assignments\Workspace\Hahiti\Hahiti\csx\Debug\roles\Statistics Collector" entryPoint="base\x64\WaHostBootstrapper.exe" parameters="base\x64\WaWorkerHost.exe " memIndex="-1" hostingEnvironment="consoleroleadmin" hostingEnvironmentVersion="2">
+          <role name="Statistics Collector" generation="1" functional="0" release="0" software="C:\Users\victor\Source\Repos\Hahiti\Hahiti\csx\Debug\roles\Statistics Collector" entryPoint="base\x64\WaHostBootstrapper.exe" parameters="base\x64\WaWorkerHost.exe " memIndex="-1" hostingEnvironment="consoleroleadmin" hostingEnvironmentVersion="2">
             <settings>
               <aCS name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" defaultValue="" />
               <aCS name="__ModelData" defaultValue="&lt;m role=&quot;Statistics Collector&quot; xmlns=&quot;urn:azure:m:v1&quot;&gt;&lt;r name=&quot;Notifications Manager&quot; /&gt;&lt;r name=&quot;Report Analyzer&quot; /&gt;&lt;r name=&quot;REST API&quot;&gt;&lt;e name=&quot;Endpoint1&quot; /&gt;&lt;/r&gt;&lt;r name=&quot;Statistics Collector&quot; /&gt;&lt;/m&gt;" />
@@ -190,9 +190,9 @@
     </group>
   </groups>
   <implements>
-    <implementation Id="69bb7e94-3333-44bc-be05-324366ef7735" ref="Microsoft.RedDog.Contract\ServiceContract\HahitiContract@ServiceDefinition">
+    <implementation Id="c629b3d7-cadb-4c25-88ff-175f9a6835e0" ref="Microsoft.RedDog.Contract\ServiceContract\HahitiContract@ServiceDefinition">
       <interfacereferences>
-        <interfaceReference Id="a10869d8-0ca3-4100-ae88-974dbe56d79c" ref="Microsoft.RedDog.Contract\Interface\REST API:Endpoint1@ServiceDefinition">
+        <interfaceReference Id="f16dde9f-96ab-4cf8-b640-d86d74be6e69" ref="Microsoft.RedDog.Contract\Interface\REST API:Endpoint1@ServiceDefinition">
           <inPort>
             <inPortMoniker name="/Hahiti/HahitiGroup/REST API:Endpoint1" />
           </inPort>

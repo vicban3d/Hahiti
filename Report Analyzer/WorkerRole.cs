@@ -63,7 +63,6 @@ namespace Report_Analyzer
             // TODO: Replace the following with your own logic.
             while (!cancellationToken.IsCancellationRequested)
             {
-                Trace.TraceInformation("Working");
                 await Task.Delay(1000);
             }
         }

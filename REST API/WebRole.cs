@@ -4,6 +4,9 @@ using System.Linq;
 using Microsoft.WindowsAzure;
 using Microsoft.WindowsAzure.Diagnostics;
 using Microsoft.WindowsAzure.ServiceRuntime;
+using System.ServiceModel;
+using System.Diagnostics;
+using System.ServiceModel.Web;
 
 namespace REST_API
 {
@@ -11,8 +14,9 @@ namespace REST_API
     {
         public override bool OnStart()
         {
-            // For information on handling configuration changes
-            // see the MSDN topic at http://go.microsoft.com/fwlink/?LinkId=166357.
+            WebServiceHost host = new WebServiceHost(typeof(HahitiService),
+            new Uri("http://localhost:8080/hahiti"));
+            host.Open();
 
             return base.OnStart();
         }

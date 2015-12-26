@@ -24,14 +24,14 @@
     <Property name="SetConfiguration" value="Configuration=Debug" />
     <Property name="SetPlatform" value="Platform=AnyCPU" />
     <Property name="RoleTargetFramework" value="v4.5" />
-    <Property name="OutputDir" value="C:\Users\victor\SkyDrive\Assignments\Workspace\Hahiti\Hahiti\obj\Debug\REST API\" />
+    <Property name="OutputDir" value="C:\Users\victor\Source\Repos\Hahiti\Hahiti\obj\Debug\REST API\" />
     <Property name="EntryPoint" value="REST API.dll" />
-    <Property name="SourceDir" value="C:\Users\victor\SkyDrive\Assignments\Workspace\Hahiti\REST API\" />
-    <Property name="SitePhysicalPath" value="C:\Users\victor\SkyDrive\Assignments\Workspace\Hahiti\REST API\" />
+    <Property name="SourceDir" value="C:\Users\victor\Source\Repos\Hahiti\REST API\" />
+    <Property name="SitePhysicalPath" value="C:\Users\victor\Source\Repos\Hahiti\REST API\" />
     <Property name="TargetRuntimeVersion" value="v4.0" />
   </Properties>
   <Sites>
-    <Site name="Web" physicalDirectory="C:\Users\victor\SkyDrive\Assignments\Workspace\Hahiti\REST API\">
+    <Site name="Web" physicalDirectory="C:\Users\victor\Source\Repos\Hahiti\REST API\">
       <Bindings>
         <Binding name="Endpoint1" endpointName="Endpoint1" />
       </Bindings>

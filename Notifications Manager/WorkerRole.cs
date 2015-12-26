@@ -63,8 +63,6 @@ namespace Notifications_Manager
             // TODO: Replace the following with your own logic.
             while (!cancellationToken.IsCancellationRequested)
             {
-                Trace.TraceInformation("Log");
-                Trace.TraceInformation("Working");
                 await Task.Delay(1000);
             }
         }

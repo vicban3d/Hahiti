@@ -1,17 +1,23 @@
-DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:28] At least one other instance of the launcher is running. Will wait until they all finish
-DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:28] Service running in Emulator Mode, will not wait/kill other instances of the launcher
-DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:28] Emulator config file set to C:\Users\victor\SkyDrive\Assignments\Workspace\Hahiti\Hahiti\csx\Debug\roles\REST API\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:28] DiagnosticsStoreRootPath set to: C:\Users\victor\SkyDrive\Assignments\Workspace\Hahiti\Hahiti\csx\Debug\roles\REST API\approot
-DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:28] Loading config file: C:\Users\victor\SkyDrive\Assignments\Workspace\Hahiti\Hahiti\csx\Debug\roles\REST API\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:28] Config file to read: C:\Users\victor\SkyDrive\Assignments\Workspace\Hahiti\Hahiti\csx\Debug\roles\REST API\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:28] Checking VM Type
-DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:28] Emulator config file set to C:\Users\victor\SkyDrive\Assignments\Workspace\Hahiti\Hahiti\csx\Debug\roles\REST API\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:28] Extension set to Emulator Mode
-DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:28] Reading XML configuration file
-DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:28] Bypassing private config decryption
-DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:28] Stopping the running plugin, if any
-DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:29] No DiagnosticsPlugin is running.
-DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:29] Killing any DiagnosticsPlugin that might remain.
-DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:29] Killing any MonAgentHost that might remain.
-DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:29] Diagnostics plugin stopped successfully
-DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:29] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:36:39] At least one other instance of the launcher is running. Will wait until they all finish
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:36:39] Service running in Emulator Mode, will not wait/kill other instances of the launcher
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:36:39] Emulator config file set to C:\Users\victor\Source\Repos\Hahiti\Hahiti\csx\Debug\roles\REST API\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:36:39] DiagnosticsStoreRootPath set to: C:\Users\victor\Source\Repos\Hahiti\Hahiti\csx\Debug\roles\REST API\approot
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:36:39] Loading config file: C:\Users\victor\Source\Repos\Hahiti\Hahiti\csx\Debug\roles\REST API\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:36:39] Config file to read: C:\Users\victor\Source\Repos\Hahiti\Hahiti\csx\Debug\roles\REST API\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:36:39] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:36:39] Emulator config file set to C:\Users\victor\Source\Repos\Hahiti\Hahiti\csx\Debug\roles\REST API\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:36:39] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:36:39] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:36:39] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:36:39] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:36:40] Found a DiagnosticsPlugin.exe. WadArguments: "C:\Users\victor\Source\Repos\Hahiti\Hahiti\csx\Debug\roles\Report Analyzer\plugins\Diagnostics\DiagnosticsPlugin.exe" DiagnosticPlugin-ShutdownEvent DiagnosticPlugin-TotalShutdownEvent -wadVer1v5.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:36:40] Loading config file: C:\Users\victor\Source\Repos\Hahiti\Hahiti\csx\Debug\roles\REST API\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:36:40] Config file to read: C:\Users\victor\Source\Repos\Hahiti\Hahiti\csx\Debug\roles\REST API\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:36:40] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:36:40] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:36:40] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:36:40] Found a DiagnosticsPlugin.exe. WadArguments: "C:\Users\victor\Source\Repos\Hahiti\Hahiti\csx\Debug\roles\Report Analyzer\plugins\Diagnostics\DiagnosticsPlugin.exe" DiagnosticPlugin-ShutdownEvent DiagnosticPlugin-TotalShutdownEvent -wadVer1v5.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:37:39] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:37:40] Found a MonAgentHost.exe. WadArguments: "C:\Users\victor\Source\Repos\Hahiti\Hahiti\csx\Debug\roles\Report Analyzer\plugins\Diagnostics\Monitor\x64\MonAgentHost.exe" -LocalPath "C:\Users\victor\Source\Repos\Hahiti\Hahiti\csx\Debug\roles\Report Analyzer\approot\WAD0105"  -ConfigFile "C:\Users\victor\Source\Repos\Hahiti\Hahiti\csx\Debug\roles\Report Analyzer\approot\WAD0105\Configuration\MaConfig.xml" -ShutDownEvent WADDM-ShutDown-0b4d3322c4e74e1a8e401c9ce9593196  -TotalShutDownEvent WADDM-TotalShutDown-0b4d3322c4e74e1a8e401c9ce9593196 -InitializedEvent WADM-StartUp-0b4d3322c4e74e1a8e401c9ce9593196 -parent 10132 -events -wadVer1v5 -UseProxyServer -XStoreAccounts WadAccount#true#devstoreaccount1#Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==#http://127.0.0.1:10002#http://127.0.0.1:10001#http://127.0.0.1:10000.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:37:43] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 15:37:43] Resetting DiagnosticPlugin
