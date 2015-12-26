@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:27] Emulator config file set to C:\Users\victor\SkyDrive\Assignments\Workspace\Hahiti\Hahiti\csx\Debug\roles\Report Analyzer\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:27] DiagnosticsStoreRootPath set to: C:\Users\victor\SkyDrive\Assignments\Workspace\Hahiti\Hahiti\csx\Debug\roles\Report Analyzer\approot
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:27] Loading config file: C:\Users\victor\SkyDrive\Assignments\Workspace\Hahiti\Hahiti\csx\Debug\roles\Report Analyzer\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:27] Config file to read: C:\Users\victor\SkyDrive\Assignments\Workspace\Hahiti\Hahiti\csx\Debug\roles\Report Analyzer\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:27] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:27] Emulator config file set to C:\Users\victor\SkyDrive\Assignments\Workspace\Hahiti\Hahiti\csx\Debug\roles\Report Analyzer\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:27] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:27] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:27] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:27] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:28] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:28] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:28] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:29] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [12/26/2015 11:34:29] Resetting DiagnosticPlugin
